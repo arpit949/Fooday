@@ -1,0 +1,175 @@
+
+/************* Primary Text/Icon Color *************/
+
+.text-yellow,
+.welcome-features li span,
+.et-location .item h4 a:hover,
+.rating-stars ul > li.star > i.fa,
+.et-categories .category-column > a:hover span,
+.et-stepper > a.current,
+#event-grid-view.active,
+#event-list-view.active,
+.et-topbar .social-media a:hover,
+.link-hover:hover,
+.monthly-deals-slider .slideCaption .serving,
+.et-navbar .nav-links ul li a:hover
+{
+	color: #FF4136 !important;
+	transition: all ease 0.3s;
+}
+
+
+/************* Secondary Text/Icon Color *************/
+
+.text-black,
+.welcome-features li a,
+.et-navtabs .nav-item
+{
+	color: #001f3f;
+	transition: all ease 0.3s;
+}
+
+/************* Primary BG Color *************/
+
+.bg-yellow,
+#backTop,
+.monthly-deals-slider .slideCaption .priceTag,
+.select2-container--default .select2-results__option--highlighted[aria-selected],
+.et-cuisines .nav-pills .nav-item .nav-link.active,
+.dropdown .submenu a:before,
+.et-accordion .card .card-header:not(.collapsed),
+.position:before,
+.position:after,
+.flip-box-back,
+.et-stepper > a.current .step-circle,
+.grp-heading:before,
+.irs--big .irs-line,
+.irs--big .irs-handle,
+.pagination a:hover,
+.pagination span.current,
+.datetimepicker table tr td.active.active,
+.datetimepicker table tr td span.active.active,
+.btn.bg-black:hover,
+.check-types input[type="checkbox"]:checked + .cbx:not(.dark),
+.check-types input[type="radio"]:checked + .rdo:not(.dark),
+.post-nav > a:hover > .fas,
+.welcome-image .title_box,
+.et_product_reviews_details ul li a.active,
+.et_product_reviews_details ul li a.active,
+.testimonialSlider .customerInfo strong:before,
+.wishlist:hover
+{
+	background-color: #FF4136 !important;
+	transition: all ease 0.3s;
+}
+
+/************* Secondary BG Color *************/
+
+.bg-black,
+#backTop:hover,
+.et-topbar,
+.et-footer,
+.hc-offcanvas-nav .nav-wrapper,
+.irs--big .irs-from, .irs--big .irs-to, .irs--big .irs-single,
+.btn.bg-yellow:hover,
+.comment-actions a.bg-yellow:hover,
+.et-navtabs .nav-item.active,
+.et_product_reviews_details ul li a,
+.et-navtabs-pane{
+	background-color: #001f3f !important;
+	transition: all ease 0.3s;
+}
+
+/************* Primary Border *************/
+
+.border-yellow,
+.et-navtabs .nav-item.active,
+.et-howit-works .hexagon,
+.et-howit-works .hexagon:before,
+.et-howit-works .hexagon:after,
+.et-accordion .card-header:before,
+.flip-box .flip-box-inner,
+.form-control:focus,
+.tags .tag:hover,
+.et-stepper:before,
+.welcome-features li:hover,
+.et-blog-detail blockquote:before,
+.et-add-restaurant .add-form .form-control:focus{
+	border-color: #FF4136 !important;
+}
+
+.productBox .productImg:after
+{
+  background-color: rgba(241,95,44, 0.6) !important;
+}
+
+/************* Red Background *************/
+.bg-danger{
+	background-color: #ff3d01 !important;
+}
+
+/************* Red Text/Icon Color *************/
+.text-danger{
+	color: #ff3d01 !important;
+}
+
+/************* Gray section background *************/
+
+.bg-alter{
+	background-color: #f1f2f6;
+}
+
+/************* Social Icons Color *************/
+.fb-icon{
+	background-color: #4064ad; /* Facebook */
+}
+.tw-icon{
+	background-color: #1c9ceb; /* Twitter */
+}
+.yt-icon{
+	background-color: #f80000; /* Youtube */
+}
+.ig-icon{
+	background-color: #dd3560; /* instagram */
+}
+.gp-icon{
+	background-color: #d5493e; /* Google Plus */
+}
+.li-icon{
+	background-color: #0070ac; /* LinkedIn */
+}
+.pi-icon{
+	background-color: #c8232c; /* Pinterest */
+}
+.wa-icon{
+	background-color: #075E54; /* WhatsApp */
+}
+
+/************* Selection Color *************/
+
+::selection {
+	background: #191919;
+	color:#ffffff;
+}
+::-webkit-selection {
+	background: #191919;
+	color: #ffffff;
+}
+::-moz-selection {
+	background: #191919;
+	color: #ffffff;
+}
+
+
+::-webkit-input-placeholder {
+	color: rgba(0,0,0,0.4) !important;
+}
+::-moz-placeholder {
+	color: rgba(0,0,0,0.4) !important;
+}
+:-ms-input-placeholder {
+	color: rgba(0,0,0,0.4) !important;
+}
+:-moz-placeholder {
+	color: rgba(0,0,0,0.4) !important;
+}

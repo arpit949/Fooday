@@ -1,0 +1,67 @@
+/* Body font */
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/typeface/Poppins-Regular.woff2') format('woff2'),
+        url('../fonts/typeface/Poppins-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/typeface/Poppins-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/typeface/Poppins-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/typeface/Poppins-MediumItalic.woff2') format('woff2'),
+        url('../fonts/typeface/Poppins-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/typeface/Poppins-Medium.woff2') format('woff2'),
+        url('../fonts/typeface/Poppins-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/typeface/Poppins-Italic.woff2') format('woff2'),
+        url('../fonts/typeface/Poppins-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* For Main Headings */
+@font-face {
+    font-family: 'Kaushan Script';
+    src: url('../fonts/typeface/kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('../fonts/typeface/kaushanscript-regular-webfont.woff') format('woff');
+}
+
+/* For Other Headings */
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../fonts/typeface/josefinsans-bold-webfont.woff2') format('woff2'),
+         url('josefinsans-bold-webfont.woff') format('woff');
+    font-weight:700;
+	font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../fonts/typeface/josefinsans-semibold-webfont.woff2') format('woff2'),
+         url('josefinsans-semibold-webfont.woff') format('woff');
+    font-weight:600;
+	font-style: normal;
+
+}
