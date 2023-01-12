@@ -21,8 +21,8 @@ import org.springframework.security.core.userdetails.User;
 public class baseMethods
 {
 	private static final String BUCKETNAME = "restrox";
-	private static final String ACCESSKEY = "AKIAZMOJFSHMXKIIKVVK";
-	private static final String SECRETKEY = "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";
+	private static final String ACCESSKEY = "";
+	private static final String SECRETKEY = "";
 
 	public static String getUser() 
 	{
